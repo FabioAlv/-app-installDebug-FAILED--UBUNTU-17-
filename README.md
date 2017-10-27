@@ -3,7 +3,7 @@ I've installed react-native and android studio, the emulator launched but I have
 
 Please I need help. Thanks for comment 
 
-The problem is the next:
+The problem is the next::
 
 Incremental java compilation is an incubating feature.
 :app:preBuild UP-TO-DATE
